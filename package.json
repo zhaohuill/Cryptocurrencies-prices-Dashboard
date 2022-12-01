@@ -1,0 +1,32 @@
+{
+  "name": "cryptocurrencies-prices-dashboard",
+  "version": "0.1.0",
+  "author": "ignacioceaglio@protonmail.com",
+  "homepage": "https://github.com/Nachoxt17/Cryptocurrencies-prices-Dashboard",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "coingecko-api": "^1.0.10",
+    "next": "10.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-prettier": "*",
+    "eslint-plugin-react": "*",
+    "gh-pages": "^2.2.0",
+    "prettier": "*"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
